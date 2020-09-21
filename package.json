@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "jikants": "^1.2.13",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7"
+  }
+}
